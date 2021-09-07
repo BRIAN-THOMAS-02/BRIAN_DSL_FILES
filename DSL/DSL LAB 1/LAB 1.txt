@@ -1,0 +1,8 @@
+3 groups are there 
+1. Cricket
+2. Football
+3. Badminton
+
+Check no. of students who play 
+Check no. of students who play 
+Check no. of students who play 

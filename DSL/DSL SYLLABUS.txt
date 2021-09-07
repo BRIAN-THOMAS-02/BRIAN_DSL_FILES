@@ -1,0 +1,22 @@
+Syllabus - Unit nos.
+
+1. Introduction to Algorithm and Data Structures
+2. Linear Data Structure using Sequential Organisation
+3. Searching and Sorting
+4. Linked List 
+5. Stack
+6. Qeue
+
+Groups  (Assignments)
+A - 3  Unit 1 & 2
+B - 3  Unit 3
+C - 2  Unit 4
+D - 2  Unit 5
+E - 3  Unit 6
+
+Groups A,B to be done in Python
+Groups C,D,E to be done in C++
+
+Languages:
+
+Python & C++
